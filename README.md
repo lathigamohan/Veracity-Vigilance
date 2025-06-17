@@ -46,7 +46,7 @@ This is my very first machine learning project — join me on this journey 🚀<
 
 <h2> Coming Soon</h2>
 <ul>
-  <li>Google Colab Notebook</li>
+  <li>VS code</li>
   <li>Model Results + Visuals</li>
   <li>Optional Web App (Streamlit)</li>
   <li>Final PDF Report </li>
